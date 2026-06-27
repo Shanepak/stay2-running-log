@@ -269,7 +269,7 @@ function Report({ form, onClose }) {
       )}
 
       <div style={{ textAlign: "center", fontSize: 10, color: "#2a2a2a", letterSpacing: 3, marginTop: 4 }}>
-        STAY2 · KEEP RUNNING
+        STAY2 · KEEP RUNNING<br />© 2026 Shanepak
       </div>
     </div>
   );
